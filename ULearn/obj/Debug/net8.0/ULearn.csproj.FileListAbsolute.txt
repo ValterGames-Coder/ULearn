@@ -1,0 +1,14 @@
+/home/valter/Projects/C#/ULearn/ULearn/bin/Debug/net8.0/ULearn
+/home/valter/Projects/C#/ULearn/ULearn/bin/Debug/net8.0/ULearn.deps.json
+/home/valter/Projects/C#/ULearn/ULearn/bin/Debug/net8.0/ULearn.runtimeconfig.json
+/home/valter/Projects/C#/ULearn/ULearn/bin/Debug/net8.0/ULearn.dll
+/home/valter/Projects/C#/ULearn/ULearn/bin/Debug/net8.0/ULearn.pdb
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.GeneratedMSBuildEditorConfig.editorconfig
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.AssemblyInfoInputs.cache
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.AssemblyInfo.cs
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.csproj.CoreCompileInputs.cache
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.dll
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/refint/ULearn.dll
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.pdb
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ULearn.genruntimeconfig.cache
+/home/valter/Projects/C#/ULearn/ULearn/obj/Debug/net8.0/ref/ULearn.dll
